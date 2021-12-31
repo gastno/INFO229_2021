@@ -7,3 +7,5 @@ Este bot de discord (aún en desarrollo) funciona como un asistente a la hora de
 Por qué se extraen los datos de una planilla de google y no de una base de datos?
 
 La comunidad más hardcore dentro del juego está acostumbrada a llevar sus anotaciones, calculos, listas y más en planillas de datos de ese estilo, es por ello que para recibir la colaboración de gente con mucho más conocimiento sobre el juego y hacer el bot lo más completo posible, comprometiendo su velocidad, se tomó esa decisión.
+
+https://docs.google.com/spreadsheets/d/1oIepKTsdqeAmobZ4colAPE4oUSUjCXyVEEs4rihu_B4/edit?usp=sharing
